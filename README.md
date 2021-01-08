@@ -1,2 +1,2 @@
-# assessment-
+# assessment
 あなたのいいところを診断してくれます。

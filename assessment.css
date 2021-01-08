@@ -1,0 +1,82 @@
+body {
+    background-color: rgb(69, 158, 212);
+    color: #fdfdff;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    box-shadow: 5px 5px 10px #3e7aaa,-5px -5px 10px #8ac4eb;
+    border-radius: 10px;
+  }
+
+  .container {
+      width: 500px;
+      height: 180px;
+      margin-top: 200px;
+      margin-right: auto;
+      margin-left: auto;
+      background-color:rgb(69, 158, 212) ;
+      border-radius: 40px;
+  }
+  
+    
+
+    h1.contain {
+        text-align: center;
+        margin-right: auto;
+        margin-left: auto;
+        padding-top: 20px;
+        margin-bottom:5px ;
+
+    }
+    p.contain  {
+      text-align: center;
+        padding-bottom: 5px;
+        font-weight: bold;
+        
+    }
+
+    
+    button {
+        border-radius: 10px;
+        padding: 5px 20px;
+        margin-right: auto;
+        margin-left: auto;
+        background-color:  rgb(69, 158, 212);
+        color: #fdffff;
+        border-style: none;
+        box-shadow: 5px 6px 11px #3e7aaa,-5px -5px 10px #8ac4eb;
+        
+    }
+    input {
+      border-radius: 10px;
+    margin-right: 20px;
+    margin-left: 50px;
+    height: 20px;
+    border-style: none;
+    box-shadow: 5px 5px 10px #3e7aaa,-5px -5px 10px #8ac4eb;
+  }
+
+#result-area {
+    text-align: center;
+}
+#result-area h3{
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 0%;
+    border-bottom: 3px solid  #fdffff;
+}
+#result-area p{
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    font-size:larger;
+    font-weight: bold;
+    color:white;
+    
+}
+#tweet-area {
+  text-align: center;
+    font-size: large;
+    border-radius: 2px;
+    margin-bottom:20px ;
+    padding-bottom:10px ;
+}
